@@ -74,26 +74,16 @@ We conducted analysis for Coinset A (Veteran Coins), Coinset B (DeFi Coins) & Co
 
 
 
-
-
-
-
-
-
-
 _______________________________________________________________________________________________________________________________________________________________________
 **Contributors & Duties: **
 
-Aarchit Malhotra:  
-Aliza Naqvi: 
-David Paquiot:
-Donte Thrasher:
-Kfir Bar: 
+Aarchit Malhotra:Overall Code
+Aliza Naqvi:Prezi
+David Paquiot:Benchmark Code
+Donte Thrasher:Oral Presentation
+Kfir Bar: Overall Code
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Licenses: **
 
 No licenses were used for this project
-
-
-
